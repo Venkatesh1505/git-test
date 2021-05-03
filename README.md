@@ -1,2 +1,2 @@
 # git-test
-To test git clone
+Testing GIT Clone
